@@ -1,3 +1,8 @@
+/*
+実行結果
+I am Alice
+*/
+
 var name = 
 
 if( name == "Micky" ) {
